@@ -1,18 +1,16 @@
+---
+tags:
+  - paper
+  - gemini
+---
+
 # example-summary
 **Link:** [google](https://google.com)
 
-> Ein Satz, der dieses Paper beschreibt.
+> Gemini 3.5 Flash wurde vorgestellt
 
-## Problem
-- LLM zu langsam
-
-## Ziel
-- LLM schneller machen
+## Problem & Ziel
+- Wie kommt man ein Foundation model größer aber effizienter
 
 ## Wie
-- parallel
-
-
----
-## Related Work
-- 
+- Sie haben einfach gekocht
