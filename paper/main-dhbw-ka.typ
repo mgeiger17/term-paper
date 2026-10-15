@@ -13,7 +13,7 @@
   digital-only: true,
 
   // Set to false if you do not need a confidentiality clause
-  confidentiality-clause: true,
+  confidentiality-clause: false,
 
   // Add AI tools used for this thesis here, according to 4.6 of "Leitlinien für Wissenschaftliche Arbeiten in Bachelorstudiengängen Studienbereich Technik"
   ai-acknowledgement: (
@@ -43,7 +43,7 @@
       matriculation-number: "0000000",
       course: "TINF24B2",
       // signature: image("assets/placeholder-signature.png"),
-    ), 
+    ),
     (
       firstname: "Mattis  Lennart",
       lastname: "Geiger",
