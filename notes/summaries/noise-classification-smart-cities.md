@@ -1,6 +1,7 @@
 ---
 tags:
-  - paper, maschineLearning, noiseClassification, smartCities
+  - paper
+  - machineLearing
 ---
 
 # A machine learning for environmental noise classification in smart cities

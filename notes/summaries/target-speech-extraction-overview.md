@@ -1,6 +1,7 @@
 ---
 tags:
-  - paper, targetSpeechExtraction
+  - paper
+  - targetSpeechRecognition
 ---
 
 # Neural Target Speech Extraction: Overview
