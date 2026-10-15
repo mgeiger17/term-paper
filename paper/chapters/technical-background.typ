@@ -1,6 +1,7 @@
 #import "../variables-registry.typ": *
 
 
+//  15%: 12 Seiten
 = Stand der Technik
 
 == Schallwahrnehmung des Menschen
@@ -18,6 +19,11 @@ Simon
 == Verfahren zur Quellentrennung und Sprachverbesserung
 === Blind Source Separation (BSS) vs. Target Speaker Extraction (TSE)
 Mattis
+
+In der Forschung existieren drei verwandte Problemestellungen, die für diese Arbeit relevant sind.
++ @bss:
++ @tse
++ @nr oder auch
 === Räumliche Filterung (Beamforming)
 Mattis
 

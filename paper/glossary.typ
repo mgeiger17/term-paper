@@ -1,10 +1,9 @@
-// Specify abbreviations here.
-// The key is used to reference the acronym.
-// The short form is used every time and the long form is used
-// additionally the first time you reference the acronym.
 #let abbreviations = (
-  (key: "NN", short: "NN", long: "Neural Network"),
-  (key: "SG", short: "SG", long: "Singular"),
+  (key: "nn", short: "NN", long: "Neural Network"),
+  (key: "bss", short: "BSS", long: "Blind Source Separation"),
+  (key: "tse", short: "TSE", long: "Target Speech Extraction"),
+  (key: "nr", short: "NR", long: "Noise Reduction"),
+  (key: "anc", short: "ANC", long: "Active Noise Control"),
 )
 
 // Specify glossary terms here for term definitions (not abbreviations).

@@ -27,12 +27,12 @@
   ),
 
   // Long title, displayed on cover slide
-  title-long: "",
+  title-long: "Stimmenklassifikation mithilfe von Deep-Learning Ansätzen zur Simulierung des Cocktailparty Effekts",
 
   // Shorter title, displayed in header of each file
-  title-short: "",
+  title-short: "Stimmenklassifikation als Simulierung des Cocktailparty Effekts",
 
-  thesis-type: "Projektarbeit 1 (T3_2000)",
+  thesis-type: "Studienarbeit ",
   examination: "Bachelor of Science (B.Sc.)",
   study: "Computer Science",
 
@@ -85,8 +85,6 @@
   abbreviations: abbreviations,
   glossary: glossary,
 )
-
-// You can now start writing :)
 
 #include "chapters/introduction.typ"
 #include "chapters/technical-background.typ"
