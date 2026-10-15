@@ -1,6 +1,7 @@
 ---
 tags:
-  - arcticle, cocktailPartyEffect
+  - paper
+  - cocktailpartyEffekt
 ---
 
 # Cocktailparty-Effekt

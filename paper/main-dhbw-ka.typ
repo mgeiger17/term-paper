@@ -27,10 +27,10 @@
   ),
 
   // Long title, displayed on cover slide
-  title-long: "Writing in Typst about a long, very scientific topic",
+  title-long: "",
 
   // Shorter title, displayed in header of each file
-  title-short: "Writing in Typst",
+  title-short: "",
 
   thesis-type: "Projektarbeit 1 (T3_2000)",
   examination: "Bachelor of Science (B.Sc.)",
@@ -38,18 +38,17 @@
 
   authors: (
     (
-      firstname: "John",
-      lastname: "Doe",
+      firstname: "Simon Markus Jochem",
+      lastname: "Rupp",
       matriculation-number: "0000000",
       course: "TINF24B2",
-      // remove if you do not have a signature image
-      signature: image("assets/placeholder-signature.png"),
-    ), // make sure to keep this comma after the first author if there is only one author!
+      // signature: image("assets/placeholder-signature.png"),
+    ), 
     (
-      firstname: "Erika",
-      lastname: "Musterfrau",
-      matriculation-number: "1234567",
-      course: "TINF24B1",
+      firstname: "Mattis  Lennart",
+      lastname: "Geiger",
+      matriculation-number: "3538462",
+      course: "TINF24B2",
     ),
   ),
 
@@ -60,12 +59,7 @@
 
   processing-period-weeks: 12,
 
-  // Remove if your thesis is not written without a company
-  company-department: "Human Resources",
-  company-supervisor: "Max Mustermann",
-  company-logo: image("assets/placeholder-company-logo.svg"),
-
-  university-supervisor: "Heinrich Braun",
+  university-supervisor: "Prof. Dr. Markus Reischl",
 
   // acknowledgements: usage: (
   //   content: [content] || include("front-matter/acknowledgements.typ")
@@ -95,8 +89,9 @@
 // You can now start writing :)
 
 #include "chapters/introduction.typ"
-#include "chapters/basic_formatting.typ"
-#include "chapters/advanced_elements.typ"
-#include "chapters/references_citations.typ"
-#include "chapters/reference_management.typ"
+#include "chapters/technical-background.typ"
+#include "chapters/new-concept.typ"
+#include "chapters/implementation.typ"
+#include "chapters/results.typ"
+#include "chapters/discussion.typ"
 #include "chapters/conclusion.typ"
