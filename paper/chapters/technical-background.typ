@@ -6,7 +6,7 @@
 
 == Schallwahrnehmung des Menschen
 Simon
-- Menschliche Gehörwahrnehmung und Frequenzskalierung (Mel-Skala)
+- Menschliche Gehörwahrnehmung und Frequenzskalierung (Mel-Skala) 
 - Logarithmische Lautstärkewahrnehmung
 
 == Grundlagen der Audiosignalverarbeitung
