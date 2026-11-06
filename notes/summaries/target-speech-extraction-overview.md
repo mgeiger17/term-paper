@@ -3,7 +3,6 @@ tags:
   - paper
   - targetSpeechRecognition
 ---
-
 # Neural Target Speech Extraction: Overview
 **Link:** https://ieeexplore.ieee.org/abstract/document/10113382?casa_token=89fwCez9mh4AAAAA:ab1Te0KvrL-TiPHCtVqPrS02XTJoeXOO1yUL_3_iTn4TdmVJd2ndkmqMb1epdnIkUeDmu9NhDyIKbTc
 
@@ -19,7 +18,7 @@ Target Speech Extraction (TSE)
 	- Identifizierung des Zielsprechers
 	- Geschätzte Sprachfrequenz von diesem Sprecher
 - Historie
-	- 1980 enhancing speker's voice in a speech mixture mit der Anahme eienr fixierten Richtung und einer Menge an Mikrofonen -> räumliche Filter
+	- 1980 enhancing speaker's voice in a speech mixture mit der Anahme eienr fixierten Richtung und einer Menge an Mikrofonen -> räumliche Filter
 	- 1990 BSS problem Independent Component Analysis (ICA), hier versucht man schätzungen des räumlichen Filters zu machen mit der Annahme die Quellen sind unabhängig und nicht Gausverteilt im Frequenzbereich
 	- mid 2000s: independent Vector Analysis (IVA) -> Problem von ICA versucht zu lösen, nämlich die Permutationen von den einzelnen Quellen. Nutzt irgenwie Vektoren, die über mehere Frequenzbänder gehen
 	- 2010s: Independet Vector extraction als Erweiterung von IVA, Nutzung von Clues
@@ -28,7 +27,7 @@ Target Speech Extraction (TSE)
 	- 3 Layer: Mixture Encoder -> Fusion Layer -> Target Extractor
 	![[Pasted image 20261015111044.png]]
 	- SNR wird als Metrik für Loss-Funktion genutzt
-
-- 
+- ASR -> Automatic Speech Recognition
+- Speaker Diarization -> Wer hat wann gesprochen in Gesprächen mit mehreren Teilnehmern
 ## Wie
-- Eine allgemeine Pipeline aufgebaut, um die Modelleansätze vergleichen zu können auch ohne, dass sie exakt die gleichen Input-Parameter bekommen haben.
+- Eine allgemeine Pipeline aufgebaut, um die Modellansätze vergleichen zu können auch ohne, dass sie exakt die gleichen Input-Parameter bekommen haben.

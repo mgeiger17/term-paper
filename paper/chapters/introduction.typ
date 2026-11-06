@@ -1,6 +1,6 @@
 #import "../variables-registry.typ": *
 
-//  5%: Vier Seiten
+//  5%: 4 Seiten
 = Einleitung
 
 Allg. Beschreibung, spezielle Beschreibung, offene Probleme (kurz), Arbeitspakete bzw. Ziele d. Arbeit (gleich zu denen  in der Zusammenfassung), Strukturierung der Arbeit

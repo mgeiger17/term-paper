@@ -4,6 +4,8 @@
   (key: "tse", short: "TSE", long: "Target Speech Extraction"),
   (key: "nr", short: "NR", long: "Noise Reduction"),
   (key: "anc", short: "ANC", long: "Active Noise Control"),
+  (key: "fft", short: "FFT", long: "Fast Fourier Transformation"),
+  (key: "fir", short: "FIR", long: "Finite Impulse Response"),
 )
 
 // Specify glossary terms here for term definitions (not abbreviations).
